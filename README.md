@@ -19,7 +19,7 @@
 
 **Overview**
 
-This project is an automated data analysis pipeline for a global sales dataset (100,000 records). Workflows include rigorous data cleansing (null and duplicate handling), feature transformation (profit & market segmentation), to financial integrity audits using **Benford's Law**. This analysis is designed to support data-based strategic decision making and early detection of transaction anomalies.
+This project is an automated data analysis pipeline for a global sales dataset of **100,000 records** sourced from **[Kaggle](https://www.kaggle.com/datasets/ishansurana1234/1000000-sales-records-excel-bi-analytics)**. Workflows include rigorous data cleansing (null and duplicate handling), feature transformation (profit & market segmentation), to financial integrity audits using **Benford's Law**. This analysis is designed to support data-based strategic decision making and early detection of transaction anomalies.
 
 **Business Impact:**
 - **Data Integrity:** Validate the authenticity of financial reports through statistical testing of the first digit.
