@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/10b9f4ed-8295-4419-890c-dff4cdac3f78" width="700">
+  <img src="https://github.com/user-attachments/assets/aef82034-80db-465f-ad61-b30a53e6a769" width="700">
 </p>
 
 <h1 align="center">Global Sales Performance & Financial Integrity Pipeline</h1>
