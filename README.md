@@ -38,7 +38,7 @@ Access complete technical documentation and source code through the following st
 
 ---
 
-📊 **Highlights of Analysis Results**
+**Highlights of Analysis Results**
 
 ### 1. Financial Correlation & Operational Health
 There is a very strong correlation (**0.88**) between *Total Revenue* and *Total Profit*. This shows a stable cost structure, where a linear increase in sales is followed by a proportional increase in profits.
